@@ -40,7 +40,7 @@ Dashboard analysis of a simulated mobile money operator, identifying that 58% of
 **Tools:** Power BI.
 
 
-#### 🔹 [diabetes-risk-prevention-dashboard](https://github.com/Lusnick/diabetes-risk-prevention-dashboard)
+#### 🔹 [Diabetes-risk-prevention-dashboard](https://github.com/Lusnick/diabetes-risk-prevention-dashboard)
 A comprehensive Data Engineering and Business Intelligence project focused on identifying patient risk profiles, analyzing body mass index (BMI) distributions, and evaluating lifestyle behaviors to support preventive healthcare decisions.
 **Tools:** Power BI, SQL
 
