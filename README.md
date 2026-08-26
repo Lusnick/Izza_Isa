@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Isabel Lusakueno 👋</h1>
+<h1 align="center">Hi, I'm Isabel Lusakueno </h1>
 <h3 align="center">Aspiring Data Analyst | Turning raw data into clear insights</h3>
 
 <p align="center">
