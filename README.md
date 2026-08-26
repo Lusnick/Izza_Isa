@@ -37,6 +37,7 @@ I'm actively looking for **internship / junior Data Analyst opportunities**, inc
 
 #### 🔹 [Kianda Pay — Mobile Money Analytics](https://github.com/Izza_Isa/kianda-pay-mobile-money-analytics)
 Dashboard analysis of a simulated mobile money operator, identifying that 58% of cash-out transaction failures are caused by agent float shortfall with province and agent-level risk breakdowns to guide working capital allocation. 
+
 **Tools:** Power BI.
 
 
