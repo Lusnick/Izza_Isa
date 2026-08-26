@@ -12,7 +12,7 @@
 
 ---
 
-### 🧭 About Me
+###  About Me
 
 I'm a **beginner Data Analyst** currently building my skills in **SQL** and **Power BI**, with a strong interest in turning messy data into insights that support real decisions. I enjoy exploring datasets, building dashboards, and constantly learning new tools to grow as an analyst.
 
@@ -20,7 +20,7 @@ I'm actively looking for **internship / junior Data Analyst opportunities**, inc
 
 ---
 
-### 🛠️ Skills & Tools
+###  Skills & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
