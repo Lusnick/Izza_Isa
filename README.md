@@ -37,12 +37,11 @@ I'm actively looking for **internship / junior Data Analyst opportunities**, inc
 
 #### 🔹 [Kianda Pay — Mobile Money Analytics](https://github.com/Lusnick/kianda-pay-mobile-money-analytics)
 Dashboard analysis of a simulated mobile money operator, identifying that 58% of cash-out transaction failures are caused by agent float shortfall with province and agent-level risk breakdowns to guide working capital allocation. 
-
 **Tools:** Power BI.
 
 
 #### 🔹 [diabetes-risk-prevention-dashboard](https://github.com/Lusnick/diabetes-risk-prevention-dashboard)
-Short description of what the project does, the dataset used, and the main insight or result.
+A comprehensive Data Engineering and Business Intelligence project focused on identifying patient risk profiles, analyzing body mass index (BMI) distributions, and evaluating lifestyle behaviors to support preventive healthcare decisions.
 **Tools:** Power BI, SQL
 
 > 💡 Tip: add a screenshot or GIF of each dashboard inside its repo's README — visuals make a huge difference for recruiters.
