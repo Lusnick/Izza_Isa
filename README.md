@@ -41,7 +41,7 @@ Dashboard analysis of a simulated mobile money operator, identifying that 58% of
 **Tools:** Power BI.
 
 
-#### 🔹 [Project 2 Name](https://github.com/your-username/project-2-repo)
+#### 🔹 [Project 2 Name](https://github.com/Lusnick/diabetes-risk-prevention-dashboard)
 Short description of what the project does, the dataset used, and the main insight or result.
 **Tools:** Power BI, SQL
 
