@@ -35,9 +35,10 @@ I'm actively looking for **internship / junior Data Analyst opportunities**, inc
 
 ### 📌 Featured Projects
 
-#### 🔹 [Project 1 Name](https://github.com/your-username/project-1-repo)
-Short description of what the project does, the dataset used, and the main insight or result.
-**Tools:** Power BI, SQL
+#### 🔹 [Kianda Pay — Mobile Money Analytics](https://github.com/Izza_Isa/kianda-pay-mobile-money-analytics)
+Dashboard analysis of a simulated mobile money operator, identifying that 58% of cash-out transaction failures are caused by agent float shortfall with province and agent-level risk breakdowns to guide working capital allocation. 
+**Tools:** Power BI.
+
 
 #### 🔹 [Project 2 Name](https://github.com/your-username/project-2-repo)
 Short description of what the project does, the dataset used, and the main insight or result.
