@@ -14,10 +14,9 @@
 
 ###  About Me
 
-I'm a **beginner Data Analyst** currently building my skills in **SQL** and **Power BI**, with a strong interest in turning messy data into insights that support real decisions. I enjoy exploring datasets, building dashboards, and constantly learning new tools to grow as an analyst.
+I'm currently building my skills in **SQL** and **Power BI**, with a strong interest in turning messy data into insights that support real decisions. I enjoy exploring datasets, building dashboards, and constantly learning new tools to grow as an analyst.
 
 I'm actively looking for **internship / junior Data Analyst opportunities**, including remote and international roles.
-
 ---
 
 ###  Skills & Tools
@@ -31,22 +30,6 @@ I'm actively looking for **internship / junior Data Analyst opportunities**, inc
 
 *Currently learning: Python (pandas), advanced SQL, data visualization best practices*
 
----
-
-###  Featured Projects
-
-#### 🔹 [Kianda Pay — Mobile Money Analytics](https://github.com/Lusnick/kianda-pay-mobile-money-analytics)
-Dashboard analysis of a simulated mobile money operator, identifying that 58% of cash-out transaction failures are caused by agent float shortfall with province and agent-level risk breakdowns to guide working capital allocation. 
-**Tools:** Power BI.
-
-
-#### 🔹 [Diabetes-risk-prevention-dashboard](https://github.com/Lusnick/diabetes-risk-prevention-dashboard)
-A comprehensive Data Engineering and Business Intelligence project focused on identifying patient risk profiles, analyzing body mass index (BMI) distributions, and evaluating lifestyle behaviors to support preventive healthcare decisions.
-**Tools:** Power BI, SQL
-
-> 💡 Tip: add a screenshot or GIF of each dashboard inside its repo's README — visuals make a huge difference for recruiters.
-
----
 
 ###  GitHub Stats
 
@@ -54,16 +37,6 @@ A comprehensive Data Engineering and Business Intelligence project focused on id
   <img src="https://github-readme-stats.vercel.app/api?username=Lusnick&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
----
 
-### 🎯 Goals for 2026
-
-- [ ] Finish SQL certification / course
-- [ ] Complete Power BI certification
-- [ ] Publish 2 more portfolio projects
-- [ ] Start learning Python for data analysis
-- [ ] Apply to first Data Analyst / internship roles
-
----
 
 <p align="center"><i>Thanks for visiting my profile — feel free to reach out!</i></p>
