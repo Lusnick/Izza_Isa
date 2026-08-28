@@ -29,7 +29,7 @@ I'm actively looking for **internship / junior Data Analyst opportunities**, inc
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-*Currently learning: Advanced SQL, data visualization best practices*
+*Currently learning: Python (pandas), advanced SQL, data visualization best practices*
 
 ---
 
