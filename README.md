@@ -31,11 +31,6 @@ I'm actively looking for **internship / junior Data Analyst opportunities**, inc
 *Currently learning: Python (pandas), advanced SQL, data visualization best practices*
 
 
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lusnick&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
 
 
 
