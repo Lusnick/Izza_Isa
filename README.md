@@ -37,4 +37,4 @@ I'm actively looking for **internship / junior Data Analyst opportunities**, inc
 
 
 
-<p align="center"><i>Thanks for visiting my profile — feel free to reach out!</i></p>
+
