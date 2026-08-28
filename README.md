@@ -17,6 +17,7 @@
 I'm currently building my skills in **SQL** and **Power BI**, with a strong interest in turning messy data into insights that support real decisions. I enjoy exploring datasets, building dashboards, and constantly learning new tools to grow as an analyst.
 
 I'm actively looking for **internship / junior Data Analyst opportunities**, including remote and international roles.
+
 ---
 
 ###  Skills & Tools
