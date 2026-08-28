@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Isabel Lusakueno </h1>
-<h3 align="center">Aspiring Data Analyst | Turning raw data into clear insights</h3>
+<h3 align="center">Data Analyst | SQL & Power BI | Insights that drive decisions</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
@@ -33,7 +33,7 @@ I'm actively looking for **internship / junior Data Analyst opportunities**, inc
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 #### 🔹 [Kianda Pay — Mobile Money Analytics](https://github.com/Lusnick/kianda-pay-mobile-money-analytics)
 Dashboard analysis of a simulated mobile money operator, identifying that 58% of cash-out transaction failures are caused by agent float shortfall with province and agent-level risk breakdowns to guide working capital allocation. 
@@ -48,10 +48,10 @@ A comprehensive Data Engineering and Business Intelligence project focused on id
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/Lusnick/Lusnick/edit/main/README.md" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lusnick&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 ---
