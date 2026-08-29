@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | SQL & Power BI | Insights that drive decisions</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/isabel-lusakueno-823630431/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:isabelajuntos@gmail.com">
